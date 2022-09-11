@@ -41,10 +41,12 @@ SpriteAtlas:
   - {fileID: -256486615, guid: e2650faff377d0b4085e699777fef9a0, type: 3}
   - {fileID: 894979391, guid: e2650faff377d0b4085e699777fef9a0, type: 3}
   - {fileID: 985922368, guid: e2650faff377d0b4085e699777fef9a0, type: 3}
+  - {fileID: 665762644, guid: e2650faff377d0b4085e699777fef9a0, type: 3}
   m_PackedSpriteNamesToIndex:
   - dungeon-tiles-1_0
   - dungeon-tiles-1_1
   - dungeon-tiles-1_2
+  - dungeon-tiles-1_3
   m_RenderDataMap: {}
   m_Tag: SpriteAtlas
   m_IsVariant: 0
